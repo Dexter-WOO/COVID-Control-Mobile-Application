@@ -1,20 +1,21 @@
 # COVID Control Mobile Application
-## Business Case
-Profiling customer through credit risk assessment
+## Problem Statement
+Since the pandemic, Malaysia imposed several lockdowns to curb the spread of Covid-19. This had a significant impact on the residents socially and economically. How can we help our country to recover socially and economically, while following through with the National Recovery Plan (NRP)?
 
-## Use Cases
-1. Using our clustering model, we can identify clusters from input data based on some common features. 
-2. Using our classification model, we can estimate the probability of a particular customer having a good credit risk.
+## Project name
+COVID Control - a Java application that connects the public with individuals/ healthcare institutions/ non-governmental organisations (NGO) that seeking financial help 
 
-## Final ranking: 
+## Final ranking: 1st runner up
 * [Watch the whole presentation](https://fb.watch/7D4_jH3g2j/)
+* [Presentation slides](https://drive.google.com/file/d/1iOzMJa7NYANwuXr9IPyie9lD9VndvUwH/view?usp=sharing)
+* [Demo video](https://www.youtube.com/watch?v=WJscC7L48B4&t=1s&ab_channel=hsl52HK)
 
 ## Contributors: 
 * Dexter Woo Teng Koon ([LinkedIn](https://www.linkedin.com/in/dexterwootengkoon/), [GitHub](https://github.com/Dexter-WOO))
-* Lee Dongheng ([LinkedIn](https://www.linkedin.com/in/tan-ming-shen/), [GitHub](https://github.com/Mingshen120))
-* Lee Jason ([LinkedIn](https://www.linkedin.com/in/lee-js/), [GitHub]())
-* Ku Ming Roong ([LinkedIn](https://www.linkedin.com/in/mrku/))
-* Liew Ze Li ([LinkedIn]()
+* Tan Ming Shen ([LinkedIn](https://www.linkedin.com/in/tan-ming-shen/), [GitHub](https://github.com/Mingshen120))
+* Lee Jason ([LinkedIn](https://www.linkedin.com/in/lee-js/), [GitHub](https://github.com/JsLeeeee))
+* Ku Ming Roong ([LinkedIn](https://www.linkedin.com/in/mrku/), [GitHub](https://github.com/RonKu01))
 
 ## How we run the file:
 We opened it with Apache NetBeans IDE 12.4 with Java version of 16. We also downloaded additional library MySQL Connector/J.
+
