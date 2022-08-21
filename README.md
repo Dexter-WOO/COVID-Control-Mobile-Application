@@ -1,4 +1,4 @@
-# 1st Runner Up, YME Hackathon 2021 Group 2
+# COVID Control Mobile Application
 ## Problem Statement
 Since the pandemic, Malaysia imposed several lockdowns to curb the spread of Covid-19. This had a significant impact on the residents socially and economically. How can we help our country to recover socially and economically, while following through with the National Recovery Plan (NRP)?
 
